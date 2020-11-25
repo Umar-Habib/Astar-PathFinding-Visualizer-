@@ -1,4 +1,4 @@
 # Astar-PathFinding-Visualizer-
 
 Implement using python library pygame\
-The algorithm visualizes all possible paths from source until it reaches the destination and provides the shortest path.
+The algorithm visualizes optimal path from start node to the end node and provides the shortest path.
